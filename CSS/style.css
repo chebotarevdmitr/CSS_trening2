@@ -1,0 +1,19 @@
+/*
+Синтаксис  CSS
+cелектор {
+  свойство: значение;
+}
+*/
+
+body {
+ background-color: #33a6447d;
+ color: #0a0000cd; 
+}
+
+.text{
+  background-color: azure;
+}
+
+#text{
+  background-color: blanchedalmond ;
+}
