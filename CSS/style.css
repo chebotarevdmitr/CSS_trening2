@@ -17,3 +17,7 @@ body {
 #text{
   background-color: blanchedalmond ;
 }
+
+li a{
+  color: darkred;
+}
