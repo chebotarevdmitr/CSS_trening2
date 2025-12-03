@@ -18,6 +18,6 @@ body {
   background-color: blanchedalmond ;
 }
 
-li a{
+li a:hover{
   color: darkred;
 }
